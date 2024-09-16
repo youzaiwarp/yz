@@ -778,4 +778,9 @@ https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 #EXTINF:-1 group-title="景区直播全网,#genre#",乐山大佛全景
 https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8/11274154.flv
-
+#EXTINF:-1 group-title="熊猫",熊猫频道1
+https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
+#EXTINF:-1 group-title="熊猫",熊猫频道2
+https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao01_2/index.m3u8
+#EXTINF:-1 group-title="熊猫",熊猫频道3
+https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao03_2/index.m3u
