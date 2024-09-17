@@ -1202,5 +1202,49 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
 #EXTINF:-1 group-title="求索",求索科学「IPV6」
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",精彩影视「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",都市剧场「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",欢笑剧场「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",华数4K 影视「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",五星体育「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",魅力足球「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",劲爆体育「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",七彩戏剧「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",金色学堂「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",生活时尚「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",法治天地「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",第一财经「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",东方财经「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",东方影视「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",上海都市「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",上海新闻「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",ICS外语「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",纪实人文「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 group-title="数字影视",纪实科教「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1 group-title="数字影视",乐游「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",动漫秀场「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
+#EXTINF:-1 group-title="数字影视",游戏风云「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
 
 
