@@ -1184,11 +1184,11 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000002/index.m3u8?
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000003/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000003&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
 #EXTINF:-1 group-title="百视TV",百视TV 热门综艺 5「IPV6」
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000004&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
-#EXTINF:-1 group-title="百视TV",百视TV 国外影视 6�「IPV6」
+#EXTINF:-1 group-title="百视TV",百视TV 国外影视 6「IPV6」
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000005&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
 #EXTINF:-1 group-title="百视TV",百视TV 奇珍异幻 7「IPV6」
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000006&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
-#EXTINF:-1 group-title="百视TV",百视TV 风情旅行 8�「IPV6」
+#EXTINF:-1 group-title="百视TV",百视TV 风情旅行 8「IPV6」
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000007&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
 #EXTINF:-1 group-title="百视TV",百视TV 百变综艺 9「IPV6」
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000013&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
