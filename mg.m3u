@@ -614,7 +614,7 @@ video://https://m.huya.com/696969
 #EXTINF:-1 group-title="虎牙周星驰",周星驰
 video://https://m.huya.com/11342412
 #EXTINF:-1 group-title="虎牙林正英",林正英
-https://m.huya.com/11342421
+video://https://m.huya.com/11342421
 #EXTINF:-1 group-title="iHOT",iHOT 爱喜剧「IPV6」
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
 #EXTINF:-1 group-title="iHOT",iHOT 爱科幻「IPV6」
