@@ -873,6 +873,8 @@ video://https://m.douyu.com/7722576?dyshid=0-1c6d52c74b1e6bec7aa63a8e000617p1&dy
 video://https://m.douyu.com/6672862?dyshid=0-1c6d52c74b1e6bec7aa63a8e000617p1&dyshci=181
 #EXTINF:-1 group-title="斗鱼游戏赛事",金铲铲之战
 video://https://m.douyu.com/9715241?dyshid=0-1c6d52c74b1e6bec7aa63a8e000617p1&dyshci=181
+#EXTINF:-1 group-title="bilibili游戏赛事",CS 2
+https://cn-sdjn-cm-02-05.bilivideo.com/live-bvc/897630/live_474595627_50840492_1500/index.m3u8?expires=1726818733&len=0&oi=0x24098a15284fd0e124c55f6d22e2309b&pt=web&qn=150&trid=100779a17189e7f23752711589c2e966ed1b&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=36a8e3266f8a6acf86b5d94f9429fa6b&site=07f79ab337516f1293f7e21d0160a815&free_type=0&mid=0&sche=ban&bvchls=1&sid=cn-sdjn-cm-02-05&chash=1&bmt=1&sg=lr&trace=65&isp=cm&rg=NorthEast&pv=Liaoning&sl=2&p2p_type=1&source=puv3_onetier&qp=&origin_bitrate=1194038&deploy_env=prod&score=16&hot_cdn=909709&pp=rtmp&flvsk=3db69609920239fe965d4127735b6e13&sk=d6469eba968eb7f70a141635127aa8ac&suffix=1500&vd=nc&zoneid_l=151420931&sid_l=live_474595627_50840492_1500&src=puv3
 #EXTINF:-1 group-title="iHOT",iHOT 爱喜剧「IPV6」
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
 #EXTINF:-1 group-title="iHOT",iHOT 爱科幻「IPV6」
