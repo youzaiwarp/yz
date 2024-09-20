@@ -651,48 +651,6 @@ https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=7b16e82a11c42b867ae
 https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=08be8d464e60db2c3aa1e8e7d742f71d&txTime=771E8800
 #EXTINF:-1 group-title="内蒙频道",乌兰察布新闻
 https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=8bca81250fd7df3b633efcbb6150b0c6&txTime=771E8800
-#EXTINF:-1 group-title="体育赛事",曼联官方 MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 group-title="体育赛事",FTV足球频道
-https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:-1 group-title="体育赛事",WWE摔跤
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="体育赛事",红牛RedBull
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="体育赛事",红牛RedBull
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 group-title="体育赛事",Red Bull TV HD
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="体育赛事",Red Bull TV HD
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1 group-title="体育赛事",Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="体育赛事",Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="体育赛事",Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="体育赛事",Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1 group-title="体育赛事",Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="体育赛事",Астрахань.Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
-#EXTINF:-1 group-title="体育赛事",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 group-title="体育赛事",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="体育赛事",Trace Sports Stars
-https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="体育赛事",TENNIS
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
-#EXTINF:-1 group-title="体育赛事",Sportoutdoor.tv
-https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="体育赛事",ONE Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 group-title="体育赛事",Motorvision
-http://210.210.155.35/uq2663/h/h09/01.m3u8
-#EXTINF:-1 group-title="体育赛事",Bahrain Sports 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="电影",电影_星爷
 http://cfss.cc/cdn/hy/11342412.flv
 #EXTINF:-1 group-title="电影",电影_英叔
@@ -1099,6 +1057,48 @@ https://d1--cn-gotcha207.bilivideo.com/live-bvc/430247/live_21144080_bs_4998535_
 https://cn-jssz-cm-02-35.bilivideo.com/live-bvc/606103/live_477572722_14509464_2500/index.m3u8?expires=1726831109&len=0&oi=0x24098a15284fd0e124c55f6d22e2309b&pt=web&qn=250&trid=10073d44d2f862462c663cf8f0bf7466ed4b&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=42296ff7cc2b3f2ad2c36bba584fc420&site=8c59b79cc7e981990fa7d79803836f58&free_type=0&mid=3546765347260460&sche=ban&bvchls=1&sid=cn-jssz-cm-02-35&chash=1&bmt=1&sg=lr&trace=73&isp=cm&rg=NorthEast&pv=Liaoning&sl=1&score=5&suffix=2500&pp=rtmp&flvsk=1304f646dfeb4df8b6e7ff33c167d3adda26bb4da5f21f1459ebf5b3c7780c72&qp=bqor_250&origin_bitrate=1326717&hot_cdn=0&source=puv3_onetier&sk=657866af8fc16d8b2b84dfdde3e98143a3dc308b223ddad3e3e2f65932188943&deploy_env=prod&p2p_type=1&vd=nc&zoneid_l=151420931&sid_l=stream_name_cold&src=puv3
 #EXTINF:-1 group-title="bilibili游戏赛事",王者荣耀甲级职业联赛原画
 https://cn-jssz-cm-02-12.bilivideo.com/live-bvc/608707/live_477572722_14509464_bluray/index.m3u8?expires=1726831194&len=0&oi=0x24098a15284fd0e124c55f6d22e2309b&pt=web&qn=10000&trid=10072594a7540706e9893e9d0f667f66ed4c&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=1d4c970685bea3a6380bda0bf5cd49e9&site=7239ab0377e622e4f5300afdbe133d7f&free_type=0&mid=3546765347260460&sche=ban&bvchls=1&sid=cn-jssz-cm-02-12&chash=1&bmt=1&sg=lr&trace=73&isp=cm&rg=NorthEast&pv=Liaoning&qp=bqor_250&sk=657866af8fc16d8b2b84dfdde3e98143a3dc308b223ddad3e3e2f65932188943&suffix=bluray&pp=rtmp&p2p_type=1&deploy_env=prod&hot_cdn=0&source=puv3_onetier&score=5&origin_bitrate=1367076&sl=1&flvsk=1304f646dfeb4df8b6e7ff33c167d3adda26bb4da5f21f1459ebf5b3c7780c72&vd=nc&zoneid_l=151420931&sid_l=stream_name_cold&src=puv3
+#EXTINF:-1 group-title="体育赛事",曼联官方 MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="体育赛事",FTV足球频道
+https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+#EXTINF:-1 group-title="体育赛事",WWE摔跤
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="体育赛事",红牛RedBull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="体育赛事",红牛RedBull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 group-title="体育赛事",Red Bull TV HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="体育赛事",Red Bull TV HD
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:-1 group-title="体育赛事",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="体育赛事",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="体育赛事",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="体育赛事",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 group-title="体育赛事",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="体育赛事",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
+#EXTINF:-1 group-title="体育赛事",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 group-title="体育赛事",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="体育赛事",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="体育赛事",TENNIS
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
+#EXTINF:-1 group-title="体育赛事",Sportoutdoor.tv
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="体育赛事",ONE Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="体育赛事",Motorvision
+http://210.210.155.35/uq2663/h/h09/01.m3u8
+#EXTINF:-1 group-title="体育赛事",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="咪咕睛彩IPV6「全网」",睛彩青少「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 group-title="咪咕睛彩IPV6「全网」",睛彩竞技「IPV6」
