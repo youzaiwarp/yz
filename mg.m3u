@@ -683,6 +683,36 @@ video://https://m.huya.com/16913382
 video://https://m.huya.com/11601966
 #EXTINF:-1 group-title="虎牙动画片",猫和老鼠
 video://https://m.huya.com/11352879
+#EXTINF:-1 group-title="虎牙游戏赛事",英雄联盟1
+video://https://m.huya.com/660000
+#EXTINF:-1 group-title="虎牙游戏赛事",英雄联盟2
+video://https://m.huya.com/660001
+#EXTINF:-1 group-title="虎牙游戏赛事",王者荣耀1
+video://https://m.huya.com/660002
+#EXTINF:-1 group-title="虎牙游戏赛事",王者荣耀2
+video://https://m.huya.com/660164
+#EXTINF:-1 group-title="虎牙游戏赛事",绝地求生
+video://https://m.huya.com/660004
+#EXTINF:-1 group-title="虎牙游戏赛事",和平精英
+video://https://m.huya.com/660006
+#EXTINF:-1 group-title="虎牙游戏赛事",金铲铲之战
+video://https://m.huya.com/660579
+#EXTINF:-1 group-title="虎牙游戏赛事",DOTA2
+video://https://m.huya.com/660118
+#EXTINF:-1 group-title="虎牙游戏赛事",永劫无间
+video://https://m.huya.com/660115
+#EXTINF:-1 group-title="虎牙游戏赛事",使命召唤手游
+video://https://m.huya.com/11718629
+#EXTINF:-1 group-title="虎牙游戏赛事",穿越火线
+video://https://m.huya.com/660101
+#EXTINF:-1 group-title="虎牙游戏赛事",穿越火线手游
+video://https://m.huya.com/660102
+#EXTINF:-1 group-title="虎牙游戏赛事",第五人格
+video://https://m.huya.com/idvesports
+#EXTINF:-1 group-title="虎牙游戏赛事",逆战
+video://https://m.huya.com/nsl2021
+#EXTINF:-1 group-title="虎牙游戏赛事",无畏契约
+video://https://m.huya.com/660679
 #EXTINF:-1 group-title="iHOT",iHOT 爱喜剧「IPV6」
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
 #EXTINF:-1 group-title="iHOT",iHOT 爱科幻「IPV6」
