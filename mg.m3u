@@ -667,6 +667,22 @@ video://https://m.huya.com/23865171
 video://https://m.huya.com/23734256
 #EXTINF:-1 group-title="埋堆堆港片",埋堆堆26
 video://https://m.huya.com/23749083
+#EXTINF:-1 group-title="虎牙荒野求生",求生德
+video://https://m.huya.com/20985858
+#EXTINF:-1 group-title="虎牙荒野求生",荒野德
+video://https://m.huya.com/17693860
+#EXTINF:-1 group-title="虎牙荒野求生",荒野求生1+1
+video://https://m.huya.com/593667
+#EXTINF:-1 group-title="虎牙荒野求生",夏娃与亚当
+video://https://m.huya.com/20072663
+#EXTINF:-1 group-title="虎牙动画片",哆啦A梦
+video://https://m.huya.com/11601963
+#EXTINF:-1 group-title="虎牙动画片",航海王
+video://https://m.huya.com/16913382
+#EXTINF:-1 group-title="虎牙动画片",七龙珠
+video://https://m.huya.com/11601966
+#EXTINF:-1 group-title="虎牙动画片",猫和老鼠
+video://https://m.huya.com/11352879
 #EXTINF:-1 group-title="iHOT",iHOT 爱喜剧「IPV6」
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281&cangjingkong
 #EXTINF:-1 group-title="iHOT",iHOT 爱科幻「IPV6」
