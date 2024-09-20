@@ -1197,13 +1197,17 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 #EXTINF:-1 group-title="卫视「IPV6」",鹤岗新闻综合「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
-#EXTINF:-1 group-title="咪咕睛彩IPV6「全网」",睛彩青少 𝟙「IPV6」
+#EXTINF:-1 group-title="咪咕睛彩IPV6「全网」",睛彩青少「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1 group-title="咪咕睛彩IPV6「全网」",睛彩竞技 𝟚「IPV6」
+#EXTINF:-1 group-title="咪咕睛彩IPV6「全网」",睛彩竞技「IPV6」
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 group-title="咪咕睛彩IPV6「全网」",睛彩篮球 𝟛「IPV6」
+#EXTINF:-1 group-title="咪咕睛彩IPV6「全网」",睛彩篮球「IPV6」
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 group-title="咪咕睛彩IPV6「全网」",睛彩直播 𝟜「IPV6」
+#EXTINF:-1 group-title="咪咕睛彩IPV6「全网」",睛彩广场舞「IPV6」
+http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 group-title="咪咕睛彩IPV6「全网」",CCTV5「IPV4」
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕睛彩IPV6「全网」",咪咕直播「IPV6」
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 group-title="咪咕全网通IPV4「域名47」",咪咕1
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
