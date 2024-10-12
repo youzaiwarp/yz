@@ -4147,11 +4147,11 @@ video://https://www.youtube.com/live/HFib76ySpbU?si=sycFYzvrsy3TeAIa
 video://https://www.youtube.com/live/aAFagzoRqqg?si=CQMSxBc0tvcmnPaf
 #EXTINF:-1 group-title="YouTube",中文剧场
 video://https://www.youtube.com/live/YfRn6V-fq58?si=ipG858ILoQ9hLEIm
-#EXTINF:-1 group-title="twitch",欢娱影视
+#EXTINF:-1 group-title="YouTube",欢娱影视
 video://https://www.youtube.com/live/f6Bx9syS8vM?si=Q6FTubUAEqWsBGnL
-#EXTINF:-1 group-title="twitch",CCTV电视剧场
+#EXTINF:-1 group-title="YouTube",CCTV电视剧场
 video://https://www.youtube.com/live/mMVWahgmluo?si=7DUJgYKKVWob6VnX
-#EXTINF:-1 group-title="twitch",乐视剧场
+#EXTINF:-1 group-title="YouTube",乐视剧场
 video://https://www.youtube.com/live/UqXjFfUDQx4?si=cXVO06pFFX4GgG2w
 #EXTINF:-1 group-title="体育赛事",曼联官方 MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
