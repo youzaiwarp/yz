@@ -4119,6 +4119,8 @@ video://https://live.kuaishou.com/u/lol1314666
 video://https://live.douyin.com/689553109471?column_type=single&is_aweme_tied=0&search_id=2024101311523958521AB151457371FA95&search_result_id=7424878413799902490
 #EXTINF:-1 group-title="YY直播",恐怖电影
 video://https://www.yy.com/1351505899/1351505899
+#EXTINF:-1 group-title="视频号赛事",英雄联盟
+http://hw.flv.wxqcloud.qq.com/trtc_1400439699/live_1214045581736285517_wjh514.flv?extbuf=a6nqanIsxabbCdgqZuxrV9uvjFIB7Tjr7cCaA7mCutdOke0w3npUKUzx5rokcztwAk%2FuQwwN7UlywP7r0TIFDujAoVYdqeU1%2BJe%2FMFSpHt0AntXKLt9%2FcYbYIwXs0OJj3PxbV3V2qwSIiCYRFEkScYv62qhsJqKtDqbvEC7jDUWzUBAiAZteZLGMaiU%2B5oSuqGgJGayKe%2F8PTKxTYbUIi553bJUKTJY%3D&openid=f34cec818d63a9e8f061df51172e3756&txSecret=79c4a641762bc6a5bb16ab2cb919612f&txTime=670E272D&wxtoken=899e3b58b09457465d53fbc8e6f5fa24&cdntagname=wjh514&combuf=%2F2ljcXnczjhLk5FUvAK016p1aQZ914ScbjGeUBZw8HABzdwltIpIXmISnSh22gbeHi5QtilQwiD3iL3yjkfxKdgd0Nj8CGxzki4TMr2Fk7OOVEItjW3Woxrmz3zPJcIp8xM8BaFM7TbJd%2BE95muyh9ip2dF%2FwHz1YN0%3D&sc=1110&gid=9195170_9129581&wu=1&vcodec=2&sv=1&TxLiveCode=warm_stream&TxDispType=3&svr_type=live_oc&tencent_test_client_ip=36.151.220.250
 #EXTINF:-1 group-title="twitch电影",电影不停歇
 video://https://www.twitch.tv/tre0228?sr=a
 #EXTINF:-1 group-title="twitch赛事",英雄联盟赛事
@@ -4135,12 +4137,6 @@ https://www.youtube.com/live/hkEgKehvSlE?si=DhrFsrZ9JxmjSalE
 https://www.youtube.com/live/HFib76ySpbU?si=sycFYzvrsy3TeAIa
 #EXTINF:-1 group-title="YouTube篮球",FLBN
 https://www.youtube.com/live/RwjOdcDfHPw?si=AkcRjy0U7vVfBdEg
-#EXTINF:-1 group-title="YouTube足球非直播时误点1",世界赛亚洲区
-https://www.youtube.com/live/qln5ShUNw8c?si=3PWArGlgiE5TXvsp
-#EXTINF:-1 group-title="YouTube足球非直播时误点2",世界赛亚洲区
-https://www.youtube.com/live/qln5ShUNw8c?si=JmoP9ralEdK8BLbt
-#EXTINF:-1 group-title="YouTube足球非直播时误点3",世界赛亚洲区
-video://https://youtube.com/@afcasiancup?si=IpkvB31cfikZWTzE
 #EXTINF:-1 group-title="体育赛事",曼联官方 MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="体育赛事",FTV足球频道
