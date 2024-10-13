@@ -4115,6 +4115,8 @@ https://cn-jssz-cm-02-12.bilivideo.com/live-bvc/608707/live_477572722_14509464_b
 video://https://live.kuaishou.com/u/KPL704668133
 #EXTINF:-1 group-title="快手赛事",英雄联盟赛事
 video://https://live.kuaishou.com/u/lol1314666
+#EXTINF:-1 group-title="抖音赛事",梦幻西游
+https://live.douyin.com/689553109471?column_type=single&is_aweme_tied=0&search_id=2024101311523958521AB151457371FA95&search_result_id=7424878413799902490
 #EXTINF:-1 group-title="twitch电影",电影不停歇
 video://https://www.twitch.tv/tre0228?sr=a
 #EXTINF:-1 group-title="twitch赛事",英雄联盟赛事
