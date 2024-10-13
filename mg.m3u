@@ -4111,10 +4111,12 @@ https://d1--cn-gotcha207.bilivideo.com/live-bvc/430247/live_21144080_bs_4998535_
 https://cn-jssz-cm-02-35.bilivideo.com/live-bvc/606103/live_477572722_14509464_2500/index.m3u8?expires=1726831109&len=0&oi=0x24098a15284fd0e124c55f6d22e2309b&pt=web&qn=250&trid=10073d44d2f862462c663cf8f0bf7466ed4b&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=42296ff7cc2b3f2ad2c36bba584fc420&site=8c59b79cc7e981990fa7d79803836f58&free_type=0&mid=3546765347260460&sche=ban&bvchls=1&sid=cn-jssz-cm-02-35&chash=1&bmt=1&sg=lr&trace=73&isp=cm&rg=NorthEast&pv=Liaoning&sl=1&score=5&suffix=2500&pp=rtmp&flvsk=1304f646dfeb4df8b6e7ff33c167d3adda26bb4da5f21f1459ebf5b3c7780c72&qp=bqor_250&origin_bitrate=1326717&hot_cdn=0&source=puv3_onetier&sk=657866af8fc16d8b2b84dfdde3e98143a3dc308b223ddad3e3e2f65932188943&deploy_env=prod&p2p_type=1&vd=nc&zoneid_l=151420931&sid_l=stream_name_cold&src=puv3
 #EXTINF:-1 group-title="bilibili游戏赛事",王者荣耀甲级职业联赛原画
 https://cn-jssz-cm-02-12.bilivideo.com/live-bvc/608707/live_477572722_14509464_bluray/index.m3u8?expires=1726831194&len=0&oi=0x24098a15284fd0e124c55f6d22e2309b&pt=web&qn=10000&trid=10072594a7540706e9893e9d0f667f66ed4c&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=1d4c970685bea3a6380bda0bf5cd49e9&site=7239ab0377e622e4f5300afdbe133d7f&free_type=0&mid=3546765347260460&sche=ban&bvchls=1&sid=cn-jssz-cm-02-12&chash=1&bmt=1&sg=lr&trace=73&isp=cm&rg=NorthEast&pv=Liaoning&qp=bqor_250&sk=657866af8fc16d8b2b84dfdde3e98143a3dc308b223ddad3e3e2f65932188943&suffix=bluray&pp=rtmp&p2p_type=1&deploy_env=prod&hot_cdn=0&source=puv3_onetier&score=5&origin_bitrate=1367076&sl=1&flvsk=1304f646dfeb4df8b6e7ff33c167d3adda26bb4da5f21f1459ebf5b3c7780c72&vd=nc&zoneid_l=151420931&sid_l=stream_name_cold&src=puv3
-#EXTINF:-1 group-title="twitch",电影循环
+#EXTINF:-1 group-title="twitch电影",电影不停歇
 video://https://www.twitch.tv/tre0228?sr=a
-#EXTINF:-1 group-title="twitch",英雄联盟赛事
+#EXTINF:-1 group-title="twitch赛事",英雄联盟赛事
 video://https://www.twitch.tv/lolpacifictw?sr=a
+#EXTINF:-1 group-title="twitch赛事",Counter-Strike赛事
+video://https://www.twitch.tv/eslcs?sr=a
 #EXTINF:-1 group-title="YouTube赛事",英雄联盟
 https://www.youtube.com/live/vIq6SgHbsGA?si=dDIDcjiTq2fieCE-
 #EXTINF:-1 group-title="YouTube功夫",功夫影院
