@@ -4125,9 +4125,9 @@ https://www.youtube.com/live/Pau-5iA7fvc?si=JBoabGOz7nsvjNwC
 https://www.youtube.com/live/hkEgKehvSlE?si=DhrFsrZ9JxmjSalE
 #EXTINF:-1 group-title="YouTube凤凰",凤凰卫视咨询台
 https://www.youtube.com/live/HFib76ySpbU?si=sycFYzvrsy3TeAIa
-EXTINF:-1 group-title="YouTube篮球",FLBN
+#EXTINF:-1 group-title="YouTube篮球",FLBN
 https://www.youtube.com/live/RwjOdcDfHPw?si=AkcRjy0U7vVfBdEg
-EXTINF:-1 group-title="YouTube足球",世锦赛
+#EXTINF:-1 group-title="YouTube足球",世界赛亚洲区
 https://www.youtube.com/live/qln5ShUNw8c?si=3PWArGlgiE5TXvsp
 #EXTINF:-1 group-title="体育赛事",曼联官方 MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
